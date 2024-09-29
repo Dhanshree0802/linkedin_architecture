@@ -83,7 +83,7 @@ JSON data serialization became a performance bottleneck. So they moved from JSON
 
 ## References
 
-(Include any references here)
+
 
 ![image](https://github.com/Dhanshree0802/linkedin_architecture/assets/98329064/d9171e9c-00cf-4b14-9d1d-ce77a9df0aa9)
 
